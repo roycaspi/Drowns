@@ -1,13 +1,18 @@
 Drowns
+
 Overview
+
 The Drowns project is a C++ simulation that models four different types of drones—Single Rotor Drone, Multi Rotor Drone, Fixed Wing Drone, and Fixed Wing Hybrid Drone—searching for a target within a forest environment. Each drone type exhibits unique movement patterns and search strategies, providing a comprehensive simulation of aerial search operations.
 
 Features
+
 Diverse Drone Models: Simulates four distinct drone types, each with specific characteristics and behaviors.
 Forest Environment: Represents the search area with varying terrain and obstacles.
 Search Algorithms: Implements different search strategies tailored to each drone type.
 Object-Oriented Design: Utilizes classes and inheritance to model drones and environment components effectively.
+
 Installation
+
 To set up the project locally:
 
 Clone the repository:
